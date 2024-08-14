@@ -1,12 +1,12 @@
 {
-    "name": "Bacus - Base of Customers",
-    "short_name": "Bacus",
+    "name": "JSON Formater",
+    "short_name": "JSON Formater",
     "start_url": "index.html",
     "display": "standalone",
     "background_color": "#000",
     "theme_color": "black",
     "scope": ".",
-    "description": "System to manage your customers.",
+    "description": "Break lines in your JSON.",
     "icons": [{
             "src": "assets/icon-192x192.png",
             "sizes": "192x192",

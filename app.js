@@ -32,7 +32,7 @@ window.formatJson = async function (event) {
         document.getElementById('result').value = result;
     } catch (err) {
         document.getElementById('json').setAttribute('aria-invalid', 'true');
-        document.getElementById('storm').style.display = 'block';
         document.getElementById('sunrise').style.display = 'none';
+        document.getElementById('storm').style.display = 'block';
     }
 }
