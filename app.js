@@ -36,3 +36,5 @@ window.formatJson = async function (event) {
         document.getElementById('storm').style.display = 'block';
     }
 }
+
+document.getElementById('json').addEventListener('input', clearWarning);
